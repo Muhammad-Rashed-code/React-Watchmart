@@ -1,0 +1,36 @@
+.navbar {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 5;
+}
+
+a {
+    color: white !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+
+
+.mart {
+    color: #F22F;
+}
+
+.watch {
+    color: yellow;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 30px !important;
+}

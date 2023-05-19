@@ -1,0 +1,40 @@
+.col {
+    margin-top: 45px;
+}
+
+.card img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.BuynowBtn {
+    margin-left: 0;
+}
+
+.Price {
+    color: red;
+    font-weight: 500;
+}
+
+.add-cart {
+    border: 0;
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    border-radius: 0 0 8px 8px;
+    height: 35px;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    color: white;
+    font-weight: 400;
+}
+
+.add-cart:hover {
+    font-weight: 600;
+    background-color: rgb(243, 8, 8);
+    transition: .5s all ease-out;
+}
+
+.Brand {
+    margin-bottom: 35px;
+}

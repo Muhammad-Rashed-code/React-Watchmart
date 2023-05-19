@@ -1,0 +1,18 @@
+.background {
+    margin-top: 35px;
+    background-color: rgb(204, 49, 204);
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.first {
+    width: 40%;
+}
+
+.second {
+    width: 30%;
+}
+
+.third {
+    width: 30%;
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "img": "https://i.ibb.co/yQ77c85/clock-3179167-640.jpg",
+        "Price": 3399,
+        "id": "101",
+        "name": "Rolex Deadline",
+        "Details": "officia et ea ex laboris nulla laboris. Nulla ut aliquip fugiat tempor veniam sint aliqua reprehenderit tempor Lorem commodo anim.",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    },
+    {
+        "img": "https://i.ibb.co/dDgvzFr/pocket-watch-2031021-640.jpg",
+        "Price": 3450,
+        "id": "102",
+        "name": "Audemars Piguet",
+        "Details": "Proident voluptate veniam voluptate mollit reprehenderit anim officia et ea ex laboris nulla laboris..",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    },
+    {
+        "img": "https://i.ibb.co/Yk56Pkn/pocket-watch-2036304-640.jpg",
+        "Price": 4490,
+        "id": "103",
+        "name": "Omega ",
+        "Details": "veniam voluptate mollit reprehenderit anim officia et ea ex laboris nulla laboris. Nulla ut aliquip fugiat tempor veniam sint aliqua reprehenderit tempor Lorem commodo anim.",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    },
+    {
+        "img": "https://i.ibb.co/KzfJzxw/pocket-watch-2061228-640.jpg",
+        "Price": 5639,
+        "id": "104",
+        "name": "DeadLine",
+        "Details": " ex laboris nulla laboris. Nulla ut aliquip fugiat tempor veniam sint aliqua reprehenderit tempor Lorem commodo anim.",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    },
+    {
+        "img": "https://i.ibb.co/ZxHwdbw/time-2980690-640.jpg",
+        "Price": 8999,
+        "id": "105",
+        "name": "Cartier",
+        "Details": "Nulla ut aliquip fugiat tempor veniam sint aliqua reprehenderit tempor Lorem commodo anim.",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    },
+    {
+        "img": "https://i.ibb.co/w0Bfk6V/time-3091031-640.jpg",
+        "Price": 3699,
+        "id": "106",
+        "name": "Blancpain",
+        "Details": " voluptate veniam voluptate mollit reprehenderit anim officia et ea ex laboris nulla laboris. .",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    },
+    {
+        "img": "https://i.ibb.co/rcFR0Ds/wristwatch-407096-640.jpg",
+        "Price": 2988,
+        "id": "107",
+        "name": "Patek Philippe",
+        "Details": "veniam voluptate mollit reprehenderit anim officia et ea ex laboris nulla laboris. Nulla ut aliquip fugiat",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    },
+    {
+        "img": "https://i.ibb.co/KzfJzxw/pocket-watch-2061228-640.jpg",
+        "Price": 2699,
+        "id": "108",
+        "name": "British",
+        "Details": "voluptate mollit reprehenderit anim officia et ea ex laboris nulla laboris. Nulla ut aliquip fugia",
+        "address": "48 Flatlands Avenue, Cutter, North Dakota",
+        "company": "Scenty"
+    }
+]
